@@ -84,7 +84,6 @@ function getAndShowInformation(marker, company_name){
 			{name: decode(company_name)},
 			function(result) {
 				var comp = result[0].fields;
-				console.log(comp);
 				curr_company = new Company( encode(comp.name),
 											encode(comp.description),
 											encode(comp.address),
@@ -141,8 +140,6 @@ function moreInfobuttonListener(){
 }
 
 function findMarker(company_name){
-	console.log(company_name);
-	console.log(markers);
 	for(var i=0; i<markers.length;i++){
 		if(markers[i].title==company_name){
 			var marker_ = markers[i];
