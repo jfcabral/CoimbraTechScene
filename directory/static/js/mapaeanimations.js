@@ -152,7 +152,6 @@ function findMarker(company_name){
 	return marker_;	
 }
 
-
 function displayInformation(){
 	var div = document.getElementById("menuInf");
 	var content;
