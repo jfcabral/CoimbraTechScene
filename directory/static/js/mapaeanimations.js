@@ -1,1 +1,314 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('5 1i=E t.r.1U(40.2W,-8.48);5 K=E 4S();5 u;5 1d;5 1c=2i;5 2;3 2e(a,b,c,d,e,f,g,h,i,j,k,l,m){w.y=a;w.16=b;w.15=c;w.1f=d;w.J=e;w.P=f;w.T=g;w.Z=h;w.1E=i;w.B=j;w.1D=k;w.1y=l;w.C=m}3 4C(a){1d=a;5 b={4E:14,1O:1i,2o:t.r.2p.2r,2w:1b,2S:{4:t.r.2X.38,1n:t.r.3i.3l},3n:D,4e:D,4f:D,4g:D,4i:D,4j:\'4k\',4l:19,4t:12};u=E t.r.4A(6.7("4G"),b)}3 4J(a,b,c){5 d=E t.r.1U(b,c);5 e=E t.r.4K({1n:d,u:u,4L:t.r.4M.4Q,2d:a});e.R=E t.r.2n({1j:\'\'});t.r.M.1q(e,\'2s\',3(){1g(e,a)});K.2y(e)}3 1h(){A(1c!=2i){1c.R.1T()}1m()}3 1g(c,d){1h();1c=c;$(3(){$.2Y(\'/2Z/\',{y:20(d)},3(a){5 b=a[0].3d;1p.1G(b);2=E 2e(o(b.y),o(b.16),o(b.15),o(b.3q),o(b.J),o(b.P),o(b.T),o(b.Z),o(b.3w),o(b.B),o(b.3y),o(b.46),o(b.C));2a(c)})})}3 4d(a){5 b=1z(o(a));1g(b,a)}3 2a(a){;5 b;b="<v q=\'1j\'>"+"<v q=\'4h\'>"+"</v>"+"<V q=\\"1I\\" N=\\"1I\\">"+2.y+(2.J!=\'\'?"<2m 1N=\\"4m\\" 17="+1d+2.J+" 1P="+2.y+" O=\\"4B\\">":"")+"</V>"+"<p><b> "+2.15+"</b></p>"+"<v q=\\"4D\\">"+"<p>"+2.16+" <a U=\\"4F:1Y();\\">4H 4I</a>"+"</p></v>"+"</v>";a.R.1j=b;u.1Z(a.1n);1s(18,u.27());1t(3(){a.R.4O(u,a)},4P)}3 1Y(){5 a=1z(2.y);a.R.1T();6.7("1v").4.s="Q";29()}3 1z(a){1p.1G(a);1p.1G(K);X(5 i=0;i<K.Y;i++){A(K[i].2d==a){5 b=K[i];2q}}G b}3 29(){5 a=6.7("1v");5 b;b=\'<2g 2t="1m()" N="2u" q="2v"><10 N="2x">&#4T</10></2g>\'+\'<V>\'+2.y+\'</V>\'+\'<p><b>\'+2.15+\'</b></p>\';b+=(2.J!=\'\'?\'<p><2m 4="2k:2z 2A #2B" 1N="1O" 17=\'+1d+2.J+\' 1P=\'+2.y+\' O="25%"></p>\':\'\');b+=\'<p>\'+2.16+\' </p>\';b+=(2.1f!=\'\'?\'<p><b>2C</b>: \'+2.1f+\'</p>\':\'\');b+=(2.1E!=\'\'?\'<p><b>2D 2E 2G&2H&2I: </b>\'+2.1E+\'</p>\':\'\');b+=(2.P!=\'\'?\'<p><b>2J: </b><a 4="2K: 2L;" U=\'+2.P+\' 2M="2N">\'+2.P+\'</a></p>\':\'\');b+=(2.T!=\'\'?\'<p><b>2O: </b>\'+2.T+\'</p>\':\'\');b+=(2.Z!=\'\'?\'<p><b>2P: </b>\'+2.Z+\'</p>\':\'\');b+=(2.1y!=\'\'?\'<p><b>2Q: </b>\'+2.1y+\'</p>\':\'\');b+=(2.1D!=\'\'?\'<p><b>2R: </b>\'+2.1D+\'</p>\':\'\');b+=(2.B!=\'\'?\'<v q=\\"B\\" N=\\"1H-2T-2U 2V\\" 11-U=\\"1k:\\/\\/1K.B.1l\\/30\\/31-32\\/33?34=35\\"11-36-37=\\"D\\" 11-1L=\\"1b\\" 11-1M=\\"D\\" 1H-3a-3b=\\"3c\\"><10><13 q=\\"3e\\" y=\\"3f\\" 3g=\\"3h\\" 4=\\"2k: F; 3j: 3k; 1o:3m; O:1Q;3o:3p(1R,1R,3r);3s:0.9\\" N=\\"3t\\" 17=\\"1k:\\/\\/1K.B.1l\\/3u\\/3v.1S?3x=&x;3z=3B&x;3C=3D&x;3E=1k%3A%2F%3F.3G.B.1l%3H%3I.1S%3J%3K%3L%3M%3N%3O%3P%3Q%3R%3S%3T%3U%3V%3W%3X.3Y&x;1M=1b&x;3Z=D&x;1L=1b&x;1o=41&x;O=42&x;U=\'+2.B+\'&x;43=44\\"><\\/13><\\/10><\\/v>\':\'\');A(2.C!=\'\'){b+=\'<p><b>45: </b></p>\';5 n=2.C.47("/");X(5 i=0;i<n.Y-1;i++){}2.C=n[i++];b+="<13 4=\\"1o:49; O:1Q;\\" 4a=\\"0\\" q=\\"C\\" 17=\\"4b/4c/C.1V?q="+2.C+"\\"></13>"}a.1W=b}3 1X(){1h();u.1Z(1i);1r(14,u.27())}3 1r(b,c){A(c<b){G}1a{z=t.r.M.1q(u,\'21\',3(a){t.r.M.22(z);23.1r(b,c-1)});1t(3(){u.24(c)},26);G}}3 1s(b,c){A(c>b){G}1a{z=t.r.M.1q(u,\'21\',3(a){t.r.M.22(z);23.1s(b,c+1)});1t(3(){u.24(c)},26);G}}3 4n(){6.7("4o").4.s="F";6.7("4p").4.s="Q";6.7("4q").4.s="Q";6.7("4r").4.s="Q";6.7("4s").4.s="Q"}3 1m(){1u=6.7("1v");1u.1W=\'\';1u.4.s="F"}3 20(a){G $(\'<v/>\').1V(a).4u()}3 o(a){G 4v(a).S(/&/g,\'&x;\').S(/"/g,\'&4w;\').S(/\'/g,\'&#39;\').S(/</g,\'&4x;\').S(/>/g,\'&4y;\')}3 4z(a){v=6.7(a);A(v.4.s!="F"){1w(v)}1a{1x(v)}}3 1w(a){a.4.s="F";6.7("I"+a.q).4.28="H(-1A)";6.7("I"+a.q).4.2b="H(-1A)";6.7("I"+a.q).4.2c="H(-1A)"}3 1x(a){a.4.s="1B";6.7("I"+a.q).4.28="H(1C)";6.7("I"+a.q).4.2b="H(1C)";6.7("I"+a.q).4.2c="H(1C)"}3 2f(a){1e=6.7("2h");W=6.7("4N");A(a==1){1e.4.s="1B";W.4.s="F";2j(W)}1a{1e.4.s="F";W.4.s="1B";1F(1e)}}3 2j(a){X(5 i=0;i<a.L.Y;i++){A(a.L[i]2l 1J){1w(a.L[i])}}}3 1F(a){X(5 i=0;i<a.L.Y;i++){A(a.L[i]2l 1J){1x(a.L[i])}}}3 4R(){1X();1F(6.7("2h"));2f(1)}',62,304,'||curr_company|function|style|var|document|getElementById|||||||||||||||||encode||id|maps|display|google|map|div|this|amp|name||if|facebook|linkedin|false|new|none|return|rotate|triang_|logo|markers|children|event|class|width|website|inline|infowindow|replace|email|href|h2|div2|for|length|phone|span|data||iframe||address|description|src|||else|true|last_marker|path_to_logos|div1|tag|getAndShowInformation|hideLastCompanyInfo|latlngInit|content|http|com|infCloseButtonListener|position|height|console|addListener|smoothZoomOut|smoothZoomIn|setTimeout|aux|menuInf|hide_companies|show_companies|products|findMarker|90deg|block|0deg|clients|foundyear|reset_display_name|log|fb|firstHeading|HTMLDivElement|www|stream|header|align|center|alt|400px|255|php|close|LatLng|html|innerHTML|resetMap|moreInfobuttonListener|panTo|decode|zoom_changed|removeListener|self|setZoom||100|getZoom|webkitTransform|displayInformation|prepareInfoWindowZoom|mozTransform|oTransform|title|Company|toggle_type|button|by_name|null|reset_display_tags|border|instanceof|img|InfoWindow|mapTypeId|MapTypeId|break|SATELLITE|click|onclick|buttonClose|menuInfButtonClose|zoomControl|closeB|push|6px|double|545565|Tags|Ano|de||funda|ccedil|atildeo|Website|color|white|target|_blank|Email|Telefone|Produtos|Clientes|zoomControlOptions|like|box|fb_iframe_widget|20736078201518|ZoomControlStyle|getJSON|company|pages|Infogene|Lda|203100856435850|fref|ts|show|faces|MEDIUM||xfbml|state|rendered|fields|fc88a22c8|f159f4c9d|scrolling|no|ControlPosition|overflow|hidden|RIGHT_TOP|450px|rotateControl|background|rgb|tags|250|opacity|fb_ltr|plugins|likebox|year|api_key|clientes|locale||pt_PT|sdk|joey|channel|2Fstatic|ak|2Fconnect|2Fxd_arbiter|3Fversion|3D17|23cb|3Df6b5e0b2|26origin|3Dhttp|253A|252F|252Flocalhost|253A8000|252Ff19d35ef8c|26domain|3Dlocalhost|26relation|3Dparent|parent|show_faces||474|400|colorscheme|light|Linkedin|produtos|split|407759666442871|278px|frameBorder|static|templates|getAndShowInformation_|scaleControl|panControl|streetViewControl|siteNotice|overviewMapControl|backgroundColor|black|maxZoom|left|initCloseButtonListener|menuIn|menu|menuDrop|numEmpresasMenu|numEmpresasMenuSub|minZoom|text|String|quot|lt|gt|toggle_companies|Map|52|initialize_map|bodyContent|zoom|javascript|map_canvas|more|information|addMarker|Marker|animation|Animation|by_tags|open|1150|DROP|menuInitListener|Array|10006'.split('|'),0,{}))
+var latlngInit = new google.maps.LatLng(40.20736078201518,-8.407759666442871);
+var markers = new Array();
+var map;
+var path_to_logos;
+var last_marker = null;
+var curr_company;
+
+function Company(name,description,address,tag,logo,website,email,phone,foundyear,facebook,clients,products,linkedin){
+	this.name = name;
+	this.description = description;
+	this.address = address;
+	this.tag = tag;
+	this.logo = logo;
+	this.website = website;
+	this.email = email;
+	this.phone = phone;
+	this.foundyear = foundyear;
+	this.facebook = facebook;
+	this.clients = clients;
+	this.products = products;
+	this.linkedin = linkedin;
+}
+
+function initialize_map(path_to_logos_) {
+	path_to_logos = path_to_logos_;
+
+	var myOptions = {
+		zoom: 14,
+		center: latlngInit,
+		mapTypeId: google.maps.MapTypeId.SATELLITE,
+
+		zoomControl: true,
+		zoomControlOptions: {
+			style: google.maps.ZoomControlStyle.MEDIUM,
+			position: google.maps.ControlPosition.RIGHT_TOP
+		},
+		rotateControl: false,
+		scaleControl: false,
+		panControl: false,
+		streetViewControl: false,
+		overviewMapControl: false,
+		backgroundColor: 'black',
+		maxZoom: 19,
+		minZoom: 11
+	};
+
+	map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+} 
+
+function addMarker(name, lat, lon){
+	var place = new google.maps.LatLng(lat, lon); 
+	var marker_ = new google.maps.Marker({
+		position: place,
+		map: map,
+		animation: google.maps.Animation.DROP,
+		title: name
+	});
+	marker_.infowindow = new google.maps.InfoWindow({
+		content: ''
+	});	
+
+	google.maps.event.addListener(marker_, 'click', function(){getAndShowInformation(marker_, name)});
+
+	markers.push(marker_);
+}
+
+function hideLastCompanyInfo(){
+	// close last marker
+	if(last_marker != null){
+		last_marker.infowindow.close();
+	}
+	infCloseButtonListener();
+}
+
+function getAndShowInformation(marker, company_name){
+	// Ajax to get information (activated by the marker button on the map)
+
+	hideLastCompanyInfo();
+	last_marker = marker;
+
+	$(function(){
+		$.getJSON(
+			'/company/',
+			{name: decode(company_name)},
+			function(result) {
+				var comp = result[0].fields;
+				console.log(comp);
+				curr_company = new Company( encode(comp.name),
+											encode(comp.description),
+											encode(comp.address),
+											encode(comp.tags),
+											encode(comp.logo),
+											encode(comp.website),
+											encode(comp.email),
+											encode(comp.phone),
+											encode(comp.year),
+											encode(comp.facebook),
+											encode(comp.clientes),
+											encode(comp.produtos),
+											encode(comp.linkedin)
+										  );
+
+				prepareInfoWindowZoom(marker);
+			}
+		); 
+	});	
+}
+
+function getAndShowInformation_(company_name){
+	// Ajax to get information
+	var marker = findMarker(encode(company_name));
+	getAndShowInformation(marker, company_name);
+}
+
+function prepareInfoWindowZoom(marker_){;
+	var contentString;
+
+	contentString = "<div id='content'>"+"<div id='siteNotice'>"+"</div>"+
+	"<h2 id=\"firstHeading\" class=\"firstHeading\">"+curr_company.name+
+	(curr_company.logo!='' ? "<img align=\"left\" src="+path_to_logos+curr_company.logo+ " alt="+curr_company.name+" width=\"52\">" : "")+
+	"</h2>"+
+	"<p><b> "+curr_company.address+"</b></p>"+
+	"<div id=\"bodyContent\">"+
+	"<p>"+curr_company.description+
+	" <a href=\"javascript:moreInfobuttonListener();\">more information</a>"+
+	"</p></div>"+
+	"</div>";
+
+	marker_.infowindow.content = contentString;
+
+	map.panTo(marker_.position);
+	smoothZoomIn(18,map.getZoom());
+	setTimeout(function(){marker_.infowindow.open(map,marker_)},1150);
+}
+
+function moreInfobuttonListener(){
+	var marker_ = findMarker(curr_company.name);
+	marker_.infowindow.close();
+	document.getElementById("menuInf").style.display = "inline";
+	displayInformation();
+}
+
+function findMarker(company_name){
+	console.log(company_name);
+	console.log(markers);
+	for(var i=0; i<markers.length;i++){
+		if(markers[i].title==company_name){
+			var marker_ = markers[i];
+			break;
+		}
+	}
+	return marker_;	
+}
+
+
+function displayInformation(){
+	var div = document.getElementById("menuInf");
+	var content;
+
+	content = '<button onclick="infCloseButtonListener()" class="buttonClose" id="menuInfButtonClose"><span class="closeB">&#10006</span></button>'+
+			  '<h2>'+curr_company.name+'</h2>'+
+			  '<p><b>'+curr_company.address+'</b></p>';
+
+	content += (curr_company.logo!='' ? '<p><img style="border:6px double #545565" align="center" src='+path_to_logos+curr_company.logo+' alt='+curr_company.name+' width="25%"></p>' : '');
+	content += '<p>'+curr_company.description+' </p>';
+	content += (curr_company.tag!='' ? '<p><b>Tags</b>: '+curr_company.tag+'</p>' : '');
+	content += (curr_company.foundyear != '' ? '<p><b>Ano de funda&ccedil&atildeo: </b>'+ curr_company.foundyear+'</p>' : '');
+	content += (curr_company.website != '' ? '<p><b>Website: </b><a style="color: white;" href='+curr_company.website+' target="_blank">'+curr_company.website+'</a></p>' : '');
+	content += (curr_company.email != '' ? '<p><b>Email: </b>'+ curr_company.email+'</p>' : '');
+	content += (curr_company.phone != '' ? '<p><b>Telefone: </b>'+curr_company.phone+'</p>' : '');
+	content += (curr_company.products != '' ? '<p><b>Produtos: </b>'+curr_company.products+'</p>' : '');
+	content += (curr_company.clients != '' ? '<p><b>Clientes: </b>'+curr_company.clients+'</p>' : '');
+	content += (curr_company.facebook != '' ? '<div id=\"facebook\" class=\"fb-like-box fb_iframe_widget\" data-href=\"http:\/\/www.facebook.com\/pages\/Infogene-Lda\/203100856435850?fref=ts\"data-show-faces=\"false\" data-stream=\"true\" data-header=\"false\" fb-xfbml-state=\"rendered\"><span><iframe id=\"fc88a22c8\" name=\"f159f4c9d\" scrolling=\"no\" style=\"border: none; overflow: hidden; height:450px; width:400px;background:rgb(255,255,250);opacity:0.9\" class=\"fb_ltr\" src=\"http:\/\/www.facebook.com\/plugins\/likebox.php?api_key=&amp;locale=pt_PT&amp;sdk=joey&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D17%23cb%3Df6b5e0b2%26origin%3Dhttp%253A%252F%252Flocalhost%253A8000%252Ff19d35ef8c%26domain%3Dlocalhost%26relation%3Dparent.parent&amp;header=true&amp;show_faces=false&amp;stream=true&amp;height=474&amp;width=400&amp;href='+curr_company.facebook+'&amp;colorscheme=light\"><\/iframe><\/span><\/div>' : '');
+
+	if (curr_company.linkedin!='') {
+        content+='<p><b>Linkedin: </b></p>';
+        var n = curr_company.linkedin.split("/");
+        for (var i=0; i<n.length-1;i++){}
+        curr_company.linkedin= n[i++];
+        //alert(curr_company.linkedin);
+        content+="<iframe style=\"height:278px; width:400px;\" frameBorder=\"0\" id=\"linkedin\" src=\"static/templates/linkedin.html?id="+curr_company.linkedin+"\"></iframe>";
+    }
+	
+	div.innerHTML = content;
+ }
+
+function resetMap(){
+	hideLastCompanyInfo();
+	map.panTo(latlngInit);
+	smoothZoomOut(14,map.getZoom());
+}
+
+function smoothZoomOut (min, cnt) {
+	if (cnt < min) {
+		return;
+	}
+	else {
+		z = google.maps.event.addListener(map,'zoom_changed', function(event){
+			google.maps.event.removeListener(z);
+			self.smoothZoomOut(min, cnt -1);
+		});
+		setTimeout(function(){map.setZoom(cnt)}, 100);
+		return;
+	}
+}
+// the smooth zoomIn function
+function smoothZoomIn (max, cnt) {
+	if (cnt > max) {
+		return;
+	}
+	else {
+		z = google.maps.event.addListener(map,'zoom_changed', function(event){
+			google.maps.event.removeListener(z);
+			self.smoothZoomIn(max, cnt + 1);
+		});
+		setTimeout(function(){map.setZoom(cnt)}, 100);
+		return;
+	}
+}
+
+function initCloseButtonListener(){
+	document.getElementById("menuIn").style.display = "none";
+	document.getElementById("menu").style.display = "inline";
+	document.getElementById("menuDrop").style.display = "inline";
+	document.getElementById("numEmpresasMenu").style.display = "inline";
+	document.getElementById("numEmpresasMenuSub").style.display = "inline";
+}
+
+function infCloseButtonListener(){
+	aux=document.getElementById("menuInf");
+	aux.innerHTML='';
+	aux.style.display = "none";
+}
+
+function decode( str ){
+	return $('<div/>').html(str).text();
+}
+
+function encode(str) {
+	return String(str)
+			.replace(/&/g, '&amp;')
+			.replace(/"/g, '&quot;')
+			.replace(/'/g, '&#39;')
+			.replace(/</g, '&lt;')
+			.replace(/>/g, '&gt;');
+}
+
+function toggle_companies(id){
+	div = document.getElementById(id);
+	if(div.style.display!="none"){
+		hide_companies(div);
+	}
+	else{
+		show_companies(div);		
+	}
+}
+
+function hide_companies(div){
+	div.style.display = "none";
+	/* roda triangulo */
+	document.getElementById("triang_"+div.id).style.webkitTransform = "rotate(-90deg)";
+	document.getElementById("triang_"+div.id).style.mozTransform = "rotate(-90deg)";
+	document.getElementById("triang_"+div.id).style.oTransform = "rotate(-90deg)";
+}
+
+function show_companies(div){
+	div.style.display = "block";
+	/* roda triangulo */
+	document.getElementById("triang_"+div.id).style.webkitTransform = "rotate(0deg)";
+	document.getElementById("triang_"+div.id).style.mozTransform = "rotate(0deg)";
+	document.getElementById("triang_"+div.id).style.oTransform = "rotate(0deg)";
+}
+
+
+function toggle_type(type){
+	div1 = document.getElementById("by_name");
+	div2 = document.getElementById("by_tags");	
+	if(type==1){
+		// Name
+		div1.style.display = "block";
+		div2.style.display = "none";		
+
+		reset_display_tags(div2);
+	}
+	else{
+		// Tags
+		div1.style.display = "none";
+		div2.style.display = "block";
+
+		reset_display_name(div1);
+	}
+}
+
+function reset_display_tags(div){
+	for (var i = 0; i < div.children.length; i++) {
+		if(div.children[i] instanceof HTMLDivElement){
+			hide_companies(div.children[i]);
+		}
+	};
+}
+
+function reset_display_name(div){
+	for (var i = 0; i < div.children.length; i++) {
+		if(div.children[i] instanceof HTMLDivElement){
+			show_companies(div.children[i]);
+		}
+	};	
+}
+
+function menuInitListener(){
+	resetMap();
+	reset_display_name( document.getElementById("by_name") );
+	toggle_type(1);
+}
