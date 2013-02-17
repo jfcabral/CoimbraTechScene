@@ -4,7 +4,7 @@ body {
   margin: 0; 
   padding: 0;  
   font-family: verdana;
-  font-size: 0.625em;
+  font-size: 0.7em;
   overflow-y: scroll;
   overflow-x: hidden;
 }
@@ -51,8 +51,7 @@ body {
   color: white;
  }
 
- #menuInf {
-  text-align: center; 
+ #menuInf { 
   display: none;
   height: 85%;
   width: 32.9%;
@@ -66,6 +65,7 @@ body {
   border-style: groove;
   border-radius: 7px;
   color: white;
+  padding-left: 10px;
 }
 
 .buttonEx {
@@ -177,7 +177,7 @@ body {
   right: 0;
   background: none;
   color: white;
-  border: thin solid black;
+  border: transparent;
   border-style: groove;
   border-radius: 5px;
   font-family: verdana;
@@ -270,7 +270,7 @@ body {
 }
 
 #numEmpresasLabel {
-  margin-right: 54px;
+  margin-right: 39px;
   display: inline-block;
   vertical-align: middle;
 }

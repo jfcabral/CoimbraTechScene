@@ -49,15 +49,38 @@ function initialize_map(path_to_logos_) {
 
 function addMarker(name, lat, lon){
 	var place = new google.maps.LatLng(lat, lon); 
+	/*
 	var marker_ = new google.maps.Marker({
 		position: place,
 		map: map,
 		animation: google.maps.Animation.DROP,
 		title: name
+	});*/
+	
+	var image = new google.maps.MarkerImage(
+	  'static/images/marker.png',
+	  new google.maps.Size(32,32),
+	  new google.maps.Point(0,0),
+	  new google.maps.Point(0,32)
+	);
+
+	var shape = {
+  coord: [17,2,19,3,20,4,21,5,23,6,24,7,25,8,26,9,27,10,28,11,29,12,30,13,31,14,31,15,30,16,29,17,29,18,28,19,27,20,26,21,25,22,24,23,23,24,22,25,21,26,20,27,19,28,16,29,8,29,6,28,5,27,4,26,3,25,2,24,1,23,1,22,1,21,0,20,0,19,0,18,0,17,0,16,0,15,0,14,0,13,0,12,0,11,1,10,1,9,2,8,2,7,3,6,4,5,5,4,6,3,9,2,17,2],
+  type: 'poly'
+};
+
+	var marker_ = new google.maps.Marker({
+		position: place,
+		icon: image,
+  		shape: shape,
+		map: map,
+		animation: google.maps.Animation.DROP,
+		title: name
 	});
+
 	marker_.infowindow = new google.maps.InfoWindow({
 		content: ''
-	});	
+	});		
 
 	google.maps.event.addListener(marker_, 'click', function(){getAndShowInformation(marker_, name)});
 
